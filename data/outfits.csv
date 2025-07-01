@@ -1,0 +1,21 @@
+occasion,weather,outfit
+casual,sunny,t-shirt and shorts
+casual,rainy,hoodie and jeans
+casual,cloudy,long sleeve shirt and cargo pants
+casual,snowy,winter jacket and boots
+formal,sunny,blazer with light shirt and chinos
+formal,rainy,formal coat with umbrella
+formal,cloudy,suit with scarf
+formal,snowy,wool suit and overcoat
+party,sunny,light dress or polo and jeans
+party,rainy,leather jacket and waterproof boots
+party,cloudy,denim jacket and stylish jeans
+party,snowy,faux fur coat and warm accessories
+sports,sunny,dry-fit tee and running shorts
+sports,rainy,water-resistant track suit
+sports,cloudy,sweatshirt and joggers
+sports,snowy,thermal gear and trainers
+wedding,sunny,light sherwani or floral gown
+wedding,rainy,embroidered coat with waterproof layer
+wedding,cloudy,traditional wear with wrap
+wedding,snowy,warm formal ethnic dress
