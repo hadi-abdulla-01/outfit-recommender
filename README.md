@@ -21,5 +21,5 @@ A simple Python-based Outfit Recommender that suggests suitable outfits based on
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yhadi-abdulla-01/outfit-recommender.git
+git clone https://github.com/hadi-abdulla-01/outfit-recommender.git
 cd outfit-recommender
